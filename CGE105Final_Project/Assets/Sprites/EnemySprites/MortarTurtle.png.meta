@@ -1,7 +1,37 @@
 fileFormatVersion: 2
 guid: f2c5350ad9601e047accd93f280c4881
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 3564686153122419728
+    second: MortarTurtle_0
+  - first:
+      213: -2146419437280090503
+    second: MortarTurtle_1
+  - first:
+      213: -3664526846196933435
+    second: MortarTurtle_2
+  - first:
+      213: -4117635838998258832
+    second: MortarTurtle_3
+  - first:
+      213: 4484210295603556309
+    second: MortarTurtle_4
+  - first:
+      213: 3416768399078600392
+    second: MortarTurtle_5
+  - first:
+      213: 3868406823295715075
+    second: MortarTurtle_6
+  - first:
+      213: -1954351284344839961
+    second: MortarTurtle_7
+  - first:
+      213: 632691923836184945
+    second: MortarTurtle_8
+  - first:
+      213: -1177738573265018378
+    second: MortarTurtle_9
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +71,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +105,168 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: MortarTurtle_0
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 862
+        width: 645
+        height: 1112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0149d947b2f487130800000000000000
+      internalID: 3564686153122419728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MortarTurtle_1
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 1385
+        width: 145
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9762dedd4e26632e0800000000000000
+      internalID: -2146419437280090503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MortarTurtle_3
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 720
+        width: 151
+        height: 436
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b571645083bd6c0800000000000000
+      internalID: -4117635838998258832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MortarTurtle_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 263
+        width: 290
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3070d3592875fa530800000000000000
+      internalID: 3868406823295715075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MortarTurtle_7
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 126
+        width: 148
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e02c4a8cdfb0e4e0800000000000000
+      internalID: -1954351284344839961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MortarTurtle_8
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 126
+        width: 151
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179a38cd3f5c7c800800000000000000
+      internalID: 632691923836184945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MortarTurtle_9
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 263
+        width: 288
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1634ee105d7afe0800000000000000
+      internalID: -1177738573265018378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

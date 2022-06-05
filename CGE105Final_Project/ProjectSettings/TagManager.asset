@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
+  - Platform
   layers:
   - Default
   - TransparentFX
@@ -13,8 +15,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - Ground
+  - Shootable
   - 
   - 
   - 
@@ -40,4 +42,25 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: sky
+    uniqueID: 527538033
+    locked: 0
+  - name: city
+    uniqueID: 2671931731
+    locked: 0
+  - name: ground
+    uniqueID: 516771117
+    locked: 0
+  - name: platform
+    uniqueID: 3479664775
+    locked: 0
+  - name: player
+    uniqueID: 229922821
+    locked: 0
+  - name: Enemy
+    uniqueID: 1660324525
+    locked: 0
+  - name: UI
+    uniqueID: 3656900385
     locked: 0
